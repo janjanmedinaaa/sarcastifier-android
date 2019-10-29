@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sarcastifier</string>
+
+    <string name="channel_description">This channel is for the Sarcastifier Input</string>
+    <string name="notification_label">Type the message you want to Sarcastify</string>
+
+    <string name="action_label">INPUT</string>
+    <string name="input_placeholder">Input Message</string>
+    <string name="clipboard_label">Sarcastify Message</string>
+    <string name="copied_to_clipboard">Copied to Clipboard!</string>
+
+    <string name="inspired_from">Inspired from %s mcspenzer/Sarcastifier</string>
+    <string name="open_github_repo">Visit Sarcastifier Github Repository</string>
+    <string name="repo_link">https://github.com/mcspenzer/Sarcastifier</string>
+</resources>
